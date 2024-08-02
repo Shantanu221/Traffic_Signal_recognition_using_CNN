@@ -8,6 +8,8 @@
 ### Traffic sign images:
 ![image_1](https://github.com/Shantanu221/Traffic_Signal_recognition_using_CNN/blob/main/023_1_0003.png)
 
+![image_2](https://github.com/Shantanu221/Traffic_Signal_recognition_using_CNN/blob/main/015_1_0004.png)
+
 ## Modules used:
 - Tensorflow
 - Keras
