@@ -1,5 +1,5 @@
 # Traffic Sign Detection using CNN
-- Traffic Sign Detection using CNN to classify traffic sign images of different categories
+- Traffic Sign Detection using CNN to classify traffic sign images of 58 categories
 - Achived an accuracy of 91%
 
 ### Dataset: 
